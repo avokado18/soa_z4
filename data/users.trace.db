@@ -1,0 +1,15 @@
+2016-12-18 16:49:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+SELECT *
+FROM USERS [42102-192]
+2016-12-18 16:49:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+SELECT *
+FROM users [42102-192]
+2016-12-18 20:22:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Таблица "USERS" не найдена
+Table "USERS" not found; SQL statement:
+SELECT *
+FROM users [42102-192]
